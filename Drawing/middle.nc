@@ -1,0 +1,32 @@
+G-Code Start
+
+(Layer 1)
+
+G00 X310.0 Y195.0
+G01 X310.0 Y205.0 
+G02 X290.0 Y205.0 
+G03 X290.0 Y195.0 
+End of polyline
+
+
+G00 X310.0 Y-5.0
+G01 X310.0 Y5.0 
+G02 X290.0 Y5.0 
+G03 X290.0 Y-5.0 
+End of polyline
+
+
+G00 X10.0 Y-5.0
+G01 X10.0 Y5.0 
+G02 X-10.0 Y5.0 
+G03 X-10.0 Y-5.0 
+End of polyline
+
+
+G00 X10.0 Y195.0
+G01 X10.0 Y205.0 
+G02 X-10.0 Y205.0 
+G03 X-10.0 Y195.0 
+End of polyline
+
+End G-Code
